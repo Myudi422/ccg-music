@@ -23,7 +23,7 @@ API_HASH = getenv("API_HASH", "d3b04868e54c17687f2391f6acc36742")
 
 BOT_TOKEN = getenv("BOT_TOKEN", "5759132205:AAGP5PrzN2ysWTmIupVHKl7OyUrAU68C05s")
 
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://root:<password>@anibot.m2eh1.mongodb.net/?retryWrites=true&w=majority")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://root:aaaaaaac@anibot.m2eh1.mongodb.net/?retryWrites=true&w=majority")
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", "900"))
 
